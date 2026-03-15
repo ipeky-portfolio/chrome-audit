@@ -1,4 +1,4 @@
-# CIS-ähnliche Controls – Google Chrome
+# Controls – Google Chrome
 
 | ID      | Kategorie                     | Beschreibung                                      | Erwartet                                | Prüfmethode |
 |---------|-------------------------------|-------------------------------------------------|----------------------------------------|-------------|
