@@ -1,9 +1,9 @@
-# Google Chrome Security Audit – CIS-ähnliche Benchmarks
+# Google Chrome Security Audit
 
 ## Übersicht
 
 Dieses Projekt demonstriert ein Security-Audit für Google Chrome Browser.  
-Die Bewertung basiert auf CIS-ähnlichen Best Practices für Browser-Härtung.
+Die Bewertung basiert auf Best Practices für Browser-Härtung.
 
 ## Ziele
 
